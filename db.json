@@ -1,0 +1,33 @@
+{
+    "transactions": [
+      {
+        "id": 1,
+        "description": "Fruits Shopping",
+        "amount": 1500,
+        "category": "Food",
+        "date": "2024-03-19"
+      },
+      {
+        "id": 2,
+        "description": "Water Bill",
+        "amount": 1000,
+        "category": "Utilities",
+        "date": "2024-03-15"
+      },
+      {
+        "id": 3,
+        "description": "Car",
+        "amount": 10000,
+        "category": "Luxury",
+        "date": "2024-05-01"
+      },
+      {
+        "id": 4,
+        "description": "Yoga Payment",
+        "amount": 5000,
+        "category": "Wellness",
+        "date": "2024-05-21"
+      }
+      
+    ]
+  }
