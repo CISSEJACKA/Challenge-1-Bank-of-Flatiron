@@ -2,32 +2,37 @@
     "transactions": [
       {
         "id": 1,
-        "description": "Fruits Shopping",
-        "amount": 1500,
-        "category": "Food",
-        "date": "2024-03-19"
+        "date": "2019-12-01",
+        "description": "Paycheck from Bob's Burgers",
+        "category": "Income",
+        "amount": 1000
       },
       {
         "id": 2,
-        "description": "Water Bill",
-        "amount": 1000,
-        "category": "Utilities",
-        "date": "2024-03-15"
+        "date": "2019-12-01",
+        "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+        "category": "Food",
+        "amount": -10.55
       },
       {
         "id": 3,
-        "description": "Car",
-        "amount": 10000,
-        "category": "Luxury",
-        "date": "2024-05-01"
+        "date": "2019-12-02",
+        "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+        "category": "Food",
+        "amount": -10.55
       },
       {
         "id": 4,
-        "description": "Yoga Payment",
-        "amount": 5000,
-        "category": "Wellness",
-        "date": "2024-05-21"
-      }
-      
-    ]
-  }
+        "date": "2019-12-04",
+        "description": "Sunglasses, Urban Outfitters",
+        "category": "Fashion",
+        "amount": -24.99
+      },
+      {
+        "id": 5,
+        "date": "2019-12-06",
+        "description": "Venmo, Alice Pays you for Burrito",
+        "category": "Food",
+        "amount": 8.75
+      },
+   
