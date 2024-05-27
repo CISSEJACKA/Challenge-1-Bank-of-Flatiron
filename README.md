@@ -15,10 +15,9 @@ A React application to manage and display recent bank transactions. Users can vi
 ## Installation
 
 1. Clone the repository:
-2.Installation dependancies - npm install
 3.Start the JSON server - json-server --watch db.json --port 8001
 4.Start the React application - npm start
-5.Open your browser and navigate to:http://localhost:3000
+5.Open your browser and navigate to:http://localhost:8001/
 
 # Usage
 View the list of transactions.
